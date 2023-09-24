@@ -16,3 +16,8 @@ câu lệnh đẩy code lên github lần đầu
 
 câu lệnh đảy code lên github từ lần thứ 2
 - git push 
+
+3 bước để đẩy code lên github
+bước 1:git and .(đẩy các thay đổi trong các file lên khu vực staging are)
+bước 2: git commit -m "nội dung tin nhắn"(tạo ra một lịch sử phiên bản code của chúng ta)
+bước 3 chạy 1 trong 2 lệnh git push -origin + tên nhánh(nếu lần đầu đẩy code lên remote repo github đó) hoặc git push ( nếu đã đẩy lên 1 lần r)
