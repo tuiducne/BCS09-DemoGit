@@ -1,2 +1,12 @@
 câu lệnh khởi tạo local repository
 - git init
+
+câu lệnh đẩy các file có sự thay đổi lên staging area
+- git add (tên file)
+- git add . (đẩy tất cả lên cùng lúc)
+
+kiểm tra các file đang nằm trên staging area
+- git status
+
+lệnh tạo ra một commit (lịch sử phiên bản)
+- git commit -m "nội dung tin nhắn"
