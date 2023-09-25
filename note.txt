@@ -11,6 +11,9 @@ kiểm tra các file đang nằm trên staging area
 lệnh tạo ra một commit (lịch sử phiên bản)
 - git commit -m "nội dung tin nhắn"
 
+lệnh dung để kết nối giữa local repository và remote repository
+- git remote and origin(đường dẫn tới remote repo)
+
 câu lệnh đẩy code lên github lần đầu
 - git push -u origin (tên nhánh, có thể coi ở góc dưới cuối bên tay trai vscode)
 
