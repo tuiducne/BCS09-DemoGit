@@ -26,3 +26,9 @@ bước 2: git commit -m "nội dung tin nhắn"(tạo ra một lịch sử phi�
 bước 3 chạy 1 trong 2 lệnh git push -origin + tên nhánh(nếu lần đầu đẩy code lên remote repo github đó) hoặc git push ( nếu đã đẩy lên 1 lần r)
 
 câu nhắn này có cái gì đó dui dẻ nè 
+ 
+ khi muốn clone source code từ remote repo trên github về máy tính 
+ - git clone (dường dẫn tới remote repo)
+
+ khi muốn cập nhật code mới nhất từ trên github về code ở local
+ - git pull origin (tên nhánh) 
